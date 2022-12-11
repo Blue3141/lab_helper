@@ -345,7 +345,7 @@ echo puoi avanzare velocemente premendo una lettera o invio.
 echo.
 echo Avrai ogni volta un menu' e potrai scegliere cosa fare;
 echo le spiegazioni sono (almeno spero) abbastanza chiare da
-echo non richiedere ulteriori spiegazioni; se avtee domande,
+echo non richiedere ulteriori spiegazioni; se avete domande,
 echo sapete chi sono, avete il mio numero (o, almeno, il mio
 echo  Telegram)...scrivimi.
 echo Tanto sono abituata alla gente che mi scrive :)
